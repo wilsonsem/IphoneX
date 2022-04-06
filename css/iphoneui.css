@@ -85,7 +85,7 @@
 }
 #screen{
     position: absolute;
-    background-image: url(./images/flower2.jpg), -webkit-linear-gradient(-27deg,#444 10%,#333 45%, #000 65%,#000 91%, #000);
+    background-image: url(./img/flower2.jpg), -webkit-linear-gradient(-27deg,#444 10%,#333 45%, #000 65%,#000 91%, #000);
     box-shadow: inset #000 0 0 0 4px, #555 0px 0 3px 0px, #222 -3px 2px, #c5c5c5 -7px 6px 1px,
      #6d6d6d -7px 6px 9px,#c5c5c5 0 0 0 6px;
     background-repeat: no-repeat;
@@ -164,7 +164,7 @@ h2{
 .d-line:hover #screen{
     /* display:block; */
     background-image: none;
-    background: url(./images/lockscreen.jpg);
+    background: url(../img/lockscreen.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     /* height: 50px;
